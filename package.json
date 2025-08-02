@@ -1,0 +1,26 @@
+{
+  "name": "mcq-fix",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "latex.js": "^0.12.6",
+    "mathjax-full": "^3.2.2",
+    "uuid": "^11.1.0",
+    "zod": "^4.0.14"
+  }
+}
