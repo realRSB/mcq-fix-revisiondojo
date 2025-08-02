@@ -1,0 +1,2478 @@
+{
+  "totalQuestions": 197,
+  "fixedQuestions": 184,
+  "removedQuestions": 13,
+  "questions": {
+    "d816449d-8471-42fb-9343-0ff92b917b50": {
+      "questionId": "d816449d-8471-42fb-9343-0ff92b917b50",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "e6272e9e-43d0-43df-ba97-0d1eba255944": {
+      "questionId": "e6272e9e-43d0-43df-ba97-0d1eba255944",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "6c82c3a7-7390-445b-a63b-c1c6818701bc": {
+      "questionId": "6c82c3a7-7390-445b-a63b-c1c6818701bc",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02b61fd6-7e4f-4537-a00e-ecc2e06fa899": {
+      "questionId": "02b61fd6-7e4f-4537-a00e-ecc2e06fa899",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "1c3a9333-2a97-4ede-93a9-44ff2709df48": {
+      "questionId": "1c3a9333-2a97-4ede-93a9-44ff2709df48",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5": {
+      "questionId": "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "d4a31989-43a6-461f-8501-ba5e5eb45901": {
+      "questionId": "d4a31989-43a6-461f-8501-ba5e5eb45901",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "cac4913a-4372-4ab0-b161-07d142691711": {
+      "questionId": "cac4913a-4372-4ab0-b161-07d142691711",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "7bc35897-c2b5-4ebc-9144-961793cab151": {
+      "questionId": "7bc35897-c2b5-4ebc-9144-961793cab151",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e": {
+      "questionId": "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "040c350d-7a66-474d-a454-a68d23886fbb": {
+      "questionId": "040c350d-7a66-474d-a454-a68d23886fbb",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "a2cd35f0-c49e-4e0c-a50b-eac79f463d8b": {
+      "questionId": "a2cd35f0-c49e-4e0c-a50b-eac79f463d8b",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "b73cdf2a-6abe-410d-b30e-2ff43bb047ba": {
+      "questionId": "b73cdf2a-6abe-410d-b30e-2ff43bb047ba",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01f6a7ea-d6f3-470a-8b43-2e055fc70130": {
+      "questionId": "01f6a7ea-d6f3-470a-8b43-2e055fc70130",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "e0d97527-9164-4016-8491-1ef95b659bdb": {
+      "questionId": "e0d97527-9164-4016-8491-1ef95b659bdb",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "6bbbaeb9-ba12-4494-b0d4-5092bc7e709a": {
+      "questionId": "6bbbaeb9-ba12-4494-b0d4-5092bc7e709a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "7971cd91-c9d5-47b6-be42-676f853fcdaf": {
+      "questionId": "7971cd91-c9d5-47b6-be42-676f853fcdaf",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "71d6ddfd-116e-40bd-9e87-5264e85bef2e": {
+      "questionId": "71d6ddfd-116e-40bd-9e87-5264e85bef2e",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "4d40cbc4-d664-40bb-8d3a-2af740fa86a8": {
+      "questionId": "4d40cbc4-d664-40bb-8d3a-2af740fa86a8",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "d435d5c7-3c4e-40df-a9f5-d5bc4edbff0b": {
+      "questionId": "d435d5c7-3c4e-40df-a9f5-d5bc4edbff0b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "caccfbfd-b351-4cde-a4ef-02696e3767aa": {
+      "questionId": "caccfbfd-b351-4cde-a4ef-02696e3767aa",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03bbe831-f83d-47b4-bd8c-31303da91452": {
+      "questionId": "03bbe831-f83d-47b4-bd8c-31303da91452",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "ecc46ca1-4004-4102-81a0-85ba3baf0771": {
+      "questionId": "ecc46ca1-4004-4102-81a0-85ba3baf0771",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "655e29b4-ad2a-4a4f-b158-47083fe3e40c": {
+      "questionId": "655e29b4-ad2a-4a4f-b158-47083fe3e40c",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03c19676-f872-4efb-b011-6b70c3ed8f2a": {
+      "questionId": "03c19676-f872-4efb-b011-6b70c3ed8f2a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "f0418012-cfa0-487f-8f29-5401fb5801ae": {
+      "questionId": "f0418012-cfa0-487f-8f29-5401fb5801ae",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "b846048a-5399-4ea3-9883-a3a6966f05f5": {
+      "questionId": "b846048a-5399-4ea3-9883-a3a6966f05f5",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "5554a0ec-d1b4-482f-8a27-26fda631f135": {
+      "questionId": "5554a0ec-d1b4-482f-8a27-26fda631f135",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "dc247c77-8112-4f28-887d-29132ac3dd05": {
+      "questionId": "dc247c77-8112-4f28-887d-29132ac3dd05",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "94a7ec7d-a351-4988-87e4-a169ff4c4d59": {
+      "questionId": "94a7ec7d-a351-4988-87e4-a169ff4c4d59",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "91e04793-ac8c-4ad2-9686-7caa23c0c663": {
+      "questionId": "91e04793-ac8c-4ad2-9686-7caa23c0c663",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "835a8f81-a59e-4aaa-b607-88ce52405930": {
+      "questionId": "835a8f81-a59e-4aaa-b607-88ce52405930",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "024b187b-cc7f-4106-9fa4-9c47907c0773": {
+      "questionId": "024b187b-cc7f-4106-9fa4-9c47907c0773",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02acb864-b2b3-4ad7-92ff-d06206fa4ad1": {
+      "questionId": "02acb864-b2b3-4ad7-92ff-d06206fa4ad1",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03d1efed-8eeb-4566-97d3-ac5ebc87d168": {
+      "questionId": "03d1efed-8eeb-4566-97d3-ac5ebc87d168",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0270e7ef-187b-4000-a3b8-4949074c7003": {
+      "questionId": "0270e7ef-187b-4000-a3b8-4949074c7003",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "1acae734-90bd-45fe-aa06-a0c6139a207b": {
+      "questionId": "1acae734-90bd-45fe-aa06-a0c6139a207b",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "a4730980-c099-425a-a4c3-edf2ed2ab90e": {
+      "questionId": "a4730980-c099-425a-a4c3-edf2ed2ab90e",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "b1ec23b8-73ab-4153-9b41-3782508e1a66": {
+      "questionId": "b1ec23b8-73ab-4153-9b41-3782508e1a66",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "80bc0815-f635-4091-8da4-4cc37c82010b": {
+      "questionId": "80bc0815-f635-4091-8da4-4cc37c82010b",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "6dca3baf-252a-4696-9d88-c2eccf8c7187": {
+      "questionId": "6dca3baf-252a-4696-9d88-c2eccf8c7187",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "04b8b939-4ca5-4067-b356-74bae0fa4bf4": {
+      "questionId": "04b8b939-4ca5-4067-b356-74bae0fa4bf4",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "a83c3135-ba78-485d-9023-cf2bb464b0b4": {
+      "questionId": "a83c3135-ba78-485d-9023-cf2bb464b0b4",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "036ffcb7-55ec-4bf8-b79e-e0d79f4638ae": {
+      "questionId": "036ffcb7-55ec-4bf8-b79e-e0d79f4638ae",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "039aab2c-2d34-4dba-abf9-e77b0b689d9a": {
+      "questionId": "039aab2c-2d34-4dba-abf9-e77b0b689d9a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "3e9e308f-76d3-4777-a2a9-9ad4b0e33ec7": {
+      "questionId": "3e9e308f-76d3-4777-a2a9-9ad4b0e33ec7",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "d749c419-bf7e-4c99-aab7-6eb966b646c7": {
+      "questionId": "d749c419-bf7e-4c99-aab7-6eb966b646c7",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "f3a546f2-4e15-4dde-889f-59dffef5e8f5": {
+      "questionId": "f3a546f2-4e15-4dde-889f-59dffef5e8f5",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "058e734f-7a6c-414c-a2c9-4015ff72c574": {
+      "questionId": "058e734f-7a6c-414c-a2c9-4015ff72c574",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "67a880ab-dd06-4e79-8828-d51af747eb02": {
+      "questionId": "67a880ab-dd06-4e79-8828-d51af747eb02",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02da2c8b-a059-40ce-a38b-3976d97da3e6": {
+      "questionId": "02da2c8b-a059-40ce-a38b-3976d97da3e6",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "402c0a5b-1b49-47d4-9e37-54c7d24c0c26": {
+      "questionId": "402c0a5b-1b49-47d4-9e37-54c7d24c0c26",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "d8d94e8f-17a5-4e9d-8d9b-81def918e074": {
+      "questionId": "d8d94e8f-17a5-4e9d-8d9b-81def918e074",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01d57b11-6dd3-4e29-9654-6c972074396a": {
+      "questionId": "01d57b11-6dd3-4e29-9654-6c972074396a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "83628ba5-548b-484c-b30a-767cbea61fac": {
+      "questionId": "83628ba5-548b-484c-b30a-767cbea61fac",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "2d74b349-936c-4b87-8d3b-f66dc8ccaf2c": {
+      "questionId": "2d74b349-936c-4b87-8d3b-f66dc8ccaf2c",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "8527bf26-b9ef-44d7-82bb-a99b7238af62": {
+      "questionId": "8527bf26-b9ef-44d7-82bb-a99b7238af62",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "1c476f7c-918d-4f05-99fb-b5fe54aed7b3": {
+      "questionId": "1c476f7c-918d-4f05-99fb-b5fe54aed7b3",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "835f2693-32b7-4ada-bb00-bf3254cd8243": {
+      "questionId": "835f2693-32b7-4ada-bb00-bf3254cd8243",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "041971c0-956b-431d-9aef-c216e3f4f85b": {
+      "questionId": "041971c0-956b-431d-9aef-c216e3f4f85b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "005529f9-606b-4ca2-96a6-e9dc3f456489": {
+      "questionId": "005529f9-606b-4ca2-96a6-e9dc3f456489",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "00855d4e-5929-472c-be2a-bf90a9e2c9e1": {
+      "questionId": "00855d4e-5929-472c-be2a-bf90a9e2c9e1",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "1cd09e77-e6a7-461f-bb94-d0d0b5abd679": {
+      "questionId": "1cd09e77-e6a7-461f-bb94-d0d0b5abd679",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "4f949214-38b6-4ef4-a033-eff66d6272cd": {
+      "questionId": "4f949214-38b6-4ef4-a033-eff66d6272cd",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "7b62136f-70f9-44e4-9211-3379f3036ffc": {
+      "questionId": "7b62136f-70f9-44e4-9211-3379f3036ffc",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "4b4e0d59-2c2a-4bdf-9008-0d737008693c": {
+      "questionId": "4b4e0d59-2c2a-4bdf-9008-0d737008693c",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "e2bbf1d8-fb29-4903-ba41-b37e55db995f": {
+      "questionId": "e2bbf1d8-fb29-4903-ba41-b37e55db995f",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "3f66e949-c96a-47bf-8078-9ef1c5a0f241": {
+      "questionId": "3f66e949-c96a-47bf-8078-9ef1c5a0f241",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "043872af-f4d4-4e54-96d7-adce6b132d09": {
+      "questionId": "043872af-f4d4-4e54-96d7-adce6b132d09",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "d0a96303-d242-4a5f-9c1d-bd7fb5913958": {
+      "questionId": "d0a96303-d242-4a5f-9c1d-bd7fb5913958",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "ef8f85c6-452a-482a-909a-1cb7c86d23e7": {
+      "questionId": "ef8f85c6-452a-482a-909a-1cb7c86d23e7",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "eb9d4221-8a28-4415-81e6-bcafdf3d2bf3": {
+      "questionId": "eb9d4221-8a28-4415-81e6-bcafdf3d2bf3",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "017de77c-d551-4b52-ad59-308cf4bfacec": {
+      "questionId": "017de77c-d551-4b52-ad59-308cf4bfacec",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02af485f-ea7e-4bf7-899a-39d7d8e56f6a": {
+      "questionId": "02af485f-ea7e-4bf7-899a-39d7d8e56f6a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "f78c1ccf-2819-4350-a941-886f67628066": {
+      "questionId": "f78c1ccf-2819-4350-a941-886f67628066",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "ec16e9ee-9f12-4bcd-9684-32c678e74192": {
+      "questionId": "ec16e9ee-9f12-4bcd-9684-32c678e74192",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "3c097458-d89c-42d7-a59a-21627090e692": {
+      "questionId": "3c097458-d89c-42d7-a59a-21627090e692",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0627093b-869e-4f66-ac6d-e7209eccdc2b": {
+      "questionId": "0627093b-869e-4f66-ac6d-e7209eccdc2b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "7542a58e-4bef-4cdb-8568-a148b8ad35be": {
+      "questionId": "7542a58e-4bef-4cdb-8568-a148b8ad35be",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "026d7a15-41f4-42bb-9374-6744b71f375a": {
+      "questionId": "026d7a15-41f4-42bb-9374-6744b71f375a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "8f034cf5-30f7-4ecf-9ef5-e261172df9d2": {
+      "questionId": "8f034cf5-30f7-4ecf-9ef5-e261172df9d2",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "afb8b59d-ba6b-4dde-9817-2c3ae2e9d644": {
+      "questionId": "afb8b59d-ba6b-4dde-9817-2c3ae2e9d644",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "049bd9bb-6756-4495-951c-de12dd2ad87b": {
+      "questionId": "049bd9bb-6756-4495-951c-de12dd2ad87b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02ab8fdc-4b6e-4301-853e-1137e385e709": {
+      "questionId": "02ab8fdc-4b6e-4301-853e-1137e385e709",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "a6a710d7-9c04-443c-9c02-5e11e590d3f2": {
+      "questionId": "a6a710d7-9c04-443c-9c02-5e11e590d3f2",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "c50cee1a-6e23-4a34-9258-f79d9fe903a3": {
+      "questionId": "c50cee1a-6e23-4a34-9258-f79d9fe903a3",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "037590a5-3802-4d84-83b5-d230eb0af0fc": {
+      "questionId": "037590a5-3802-4d84-83b5-d230eb0af0fc",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "045c961c-a798-4749-8472-be17c9995e33": {
+      "questionId": "045c961c-a798-4749-8472-be17c9995e33",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02f257f7-1b87-461c-82c5-9459c062cb19": {
+      "questionId": "02f257f7-1b87-461c-82c5-9459c062cb19",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "b46d956c-cd23-4675-bebe-a4d59a38dba0": {
+      "questionId": "b46d956c-cd23-4675-bebe-a4d59a38dba0",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "d11d0150-68ea-410c-b38f-0684f2ffd7bb": {
+      "questionId": "d11d0150-68ea-410c-b38f-0684f2ffd7bb",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0223dd8e-8e24-49a5-b807-c42bee105c23": {
+      "questionId": "0223dd8e-8e24-49a5-b807-c42bee105c23",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "66d9cee4-1ed1-4798-872a-44c60a129e32": {
+      "questionId": "66d9cee4-1ed1-4798-872a-44c60a129e32",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "011d2eff-113a-4101-b364-7a1d13acd40f": {
+      "questionId": "011d2eff-113a-4101-b364-7a1d13acd40f",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "bfb91b3a-04fd-45f9-88e3-7d5be3b099d8": {
+      "questionId": "bfb91b3a-04fd-45f9-88e3-7d5be3b099d8",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "039817a3-89ab-4372-b68e-c4749f98ba40": {
+      "questionId": "039817a3-89ab-4372-b68e-c4749f98ba40",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "3f917121-13b0-4a27-b244-9741d40b44ae": {
+      "questionId": "3f917121-13b0-4a27-b244-9741d40b44ae",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "a29e6121-2410-474d-8e86-a10237318cdb": {
+      "questionId": "a29e6121-2410-474d-8e86-a10237318cdb",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "f1c1ead5-87a8-4318-a1a7-5f9014ed9b27": {
+      "questionId": "f1c1ead5-87a8-4318-a1a7-5f9014ed9b27",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "039e94b3-a4ae-4dfc-b067-fdcf0030819a": {
+      "questionId": "039e94b3-a4ae-4dfc-b067-fdcf0030819a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0241d757-f6fd-44ce-8cb1-ab8649f861a6": {
+      "questionId": "0241d757-f6fd-44ce-8cb1-ab8649f861a6",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "05af1efa-1704-4720-a1d9-66c9e669dbfd": {
+      "questionId": "05af1efa-1704-4720-a1d9-66c9e669dbfd",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "032bca91-4947-4054-83e5-b27923f6cdc9": {
+      "questionId": "032bca91-4947-4054-83e5-b27923f6cdc9",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "821c48ba-4cec-4641-9346-a798659f2e31": {
+      "questionId": "821c48ba-4cec-4641-9346-a798659f2e31",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01dc59f2-ea82-4243-aa06-6776623d3af6": {
+      "questionId": "01dc59f2-ea82-4243-aa06-6776623d3af6",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "047cac71-264b-435c-83b7-224a166de720": {
+      "questionId": "047cac71-264b-435c-83b7-224a166de720",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0087dad3-b026-466b-97c9-3f5d78636b67": {
+      "questionId": "0087dad3-b026-466b-97c9-3f5d78636b67",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03941511-815c-48f5-86b4-53d4879b4061": {
+      "questionId": "03941511-815c-48f5-86b4-53d4879b4061",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "30d2b1ff-d75c-4691-8b6d-1075e4453ad1": {
+      "questionId": "30d2b1ff-d75c-4691-8b6d-1075e4453ad1",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "044ca096-88bb-43b7-a422-021638450eab": {
+      "questionId": "044ca096-88bb-43b7-a422-021638450eab",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "006d8a89-c7a0-41c3-9bc3-984ed711311c": {
+      "questionId": "006d8a89-c7a0-41c3-9bc3-984ed711311c",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f": {
+      "questionId": "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0034c453-7339-468c-adf0-79a7bbcab237": {
+      "questionId": "0034c453-7339-468c-adf0-79a7bbcab237",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01064677-574c-4141-b5f1-ca81785654b9": {
+      "questionId": "01064677-574c-4141-b5f1-ca81785654b9",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "034dcc2a-68a2-4e22-bb5c-9ce14c35e1d7": {
+      "questionId": "034dcc2a-68a2-4e22-bb5c-9ce14c35e1d7",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03c7fc29-bb4c-4363-9d4a-360f6745ffc7": {
+      "questionId": "03c7fc29-bb4c-4363-9d4a-360f6745ffc7",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0064039e-361d-409f-9c4e-37119550b1a4": {
+      "questionId": "0064039e-361d-409f-9c4e-37119550b1a4",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "024ab595-6b4e-4c54-a222-8839629d57eb": {
+      "questionId": "024ab595-6b4e-4c54-a222-8839629d57eb",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0457c0b3-ab3c-4072-8c52-20ad0e9d116a": {
+      "questionId": "0457c0b3-ab3c-4072-8c52-20ad0e9d116a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "04a8236e-cdec-4d64-b5db-24d2c4e29434": {
+      "questionId": "04a8236e-cdec-4d64-b5db-24d2c4e29434",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "a268f939-cc56-4810-bf2e-96555dee3e79": {
+      "questionId": "a268f939-cc56-4810-bf2e-96555dee3e79",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "00f208ca-563a-4138-a0d9-c3ee7440b303": {
+      "questionId": "00f208ca-563a-4138-a0d9-c3ee7440b303",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "4e844e09-b92a-4f1e-845a-5ce6177b7692": {
+      "questionId": "4e844e09-b92a-4f1e-845a-5ce6177b7692",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "041b1288-d46f-4b15-92a8-d90f83b1d34c": {
+      "questionId": "041b1288-d46f-4b15-92a8-d90f83b1d34c",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0453a51f-f586-4ed3-af43-eabf4b5ecdd8": {
+      "questionId": "0453a51f-f586-4ed3-af43-eabf4b5ecdd8",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02ada342-33b7-48fd-b545-5d69b00cd714": {
+      "questionId": "02ada342-33b7-48fd-b545-5d69b00cd714",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "027f690c-6553-4c66-90cd-2dfb04bf8b3b": {
+      "questionId": "027f690c-6553-4c66-90cd-2dfb04bf8b3b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "7170b8a9-5be3-4c63-8629-4d437117c23b": {
+      "questionId": "7170b8a9-5be3-4c63-8629-4d437117c23b",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "04188e6f-7302-4f66-8664-6db7ab865cec": {
+      "questionId": "04188e6f-7302-4f66-8664-6db7ab865cec",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0070a077-4271-4bae-9f5e-d823d8275748": {
+      "questionId": "0070a077-4271-4bae-9f5e-d823d8275748",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "5864dfca-3059-4e83-a372-43bd057630cd": {
+      "questionId": "5864dfca-3059-4e83-a372-43bd057630cd",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "b5792cba-2ada-42a5-8c12-cef4bfe21267": {
+      "questionId": "b5792cba-2ada-42a5-8c12-cef4bfe21267",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01701bfc-c99e-4ccd-9623-78d6048cdbd6": {
+      "questionId": "01701bfc-c99e-4ccd-9623-78d6048cdbd6",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01817bf3-80c0-4f29-9390-c1fb91e95d2b": {
+      "questionId": "01817bf3-80c0-4f29-9390-c1fb91e95d2b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0197f1e4-32d5-4efe-a7e8-d20ddc020a80": {
+      "questionId": "0197f1e4-32d5-4efe-a7e8-d20ddc020a80",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0392f34d-6d6b-485b-a50b-29c4010a6c51": {
+      "questionId": "0392f34d-6d6b-485b-a50b-29c4010a6c51",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "00623654-5b0a-4241-a5c2-11a2f8c90947": {
+      "questionId": "00623654-5b0a-4241-a5c2-11a2f8c90947",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "014d0815-7b93-44ae-bc45-f7ea57e6cc58": {
+      "questionId": "014d0815-7b93-44ae-bc45-f7ea57e6cc58",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0172be23-2876-4bec-b45d-a7169fe9cf6f": {
+      "questionId": "0172be23-2876-4bec-b45d-a7169fe9cf6f",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01922983-514c-46c5-9819-b88cb7d92037": {
+      "questionId": "01922983-514c-46c5-9819-b88cb7d92037",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "019ac921-0417-431d-b0f1-852c3a8b3d26": {
+      "questionId": "019ac921-0417-431d-b0f1-852c3a8b3d26",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01b5e2e5-7e79-4329-a564-4e7e1bee628c": {
+      "questionId": "01b5e2e5-7e79-4329-a564-4e7e1bee628c",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02a0245f-2f1b-44db-8917-b1860ab11294": {
+      "questionId": "02a0245f-2f1b-44db-8917-b1860ab11294",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "02af92f5-b50f-413c-a1e9-100245d54172": {
+      "questionId": "02af92f5-b50f-413c-a1e9-100245d54172",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "032bba71-97e5-4c15-91ad-c362e00f8be4": {
+      "questionId": "032bba71-97e5-4c15-91ad-c362e00f8be4",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0349181d-9f8b-4b67-8bff-efdbe1ac5fe0": {
+      "questionId": "0349181d-9f8b-4b67-8bff-efdbe1ac5fe0",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0355f449-69a4-47b1-b6b9-901461f3f09a": {
+      "questionId": "0355f449-69a4-47b1-b6b9-901461f3f09a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "041ed708-877e-4e1f-bf16-a6ffb4791bc9": {
+      "questionId": "041ed708-877e-4e1f-bf16-a6ffb4791bc9",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0433b9ec-97a5-4f2f-871b-9e09ab475baf": {
+      "questionId": "0433b9ec-97a5-4f2f-871b-9e09ab475baf",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "044b980a-59f5-470a-9e5a-ca00d50b27c1": {
+      "questionId": "044b980a-59f5-470a-9e5a-ca00d50b27c1",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "001a220c-6f6b-4497-b0f8-def5742a9db5": {
+      "questionId": "001a220c-6f6b-4497-b0f8-def5742a9db5",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "005c762e-c7d6-4189-9747-086531cf5258": {
+      "questionId": "005c762e-c7d6-4189-9747-086531cf5258",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "00985a7b-c102-4ef0-8549-c876e3bffde9": {
+      "questionId": "00985a7b-c102-4ef0-8549-c876e3bffde9",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "00d0bc8e-0abd-4b14-97c6-f0a5b1a3758b": {
+      "questionId": "00d0bc8e-0abd-4b14-97c6-f0a5b1a3758b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "0118aba0-086f-422a-b860-5d67b0025480": {
+      "questionId": "0118aba0-086f-422a-b860-5d67b0025480",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "0197306a-c5c5-4625-b006-b9094d42d6f7": {
+      "questionId": "0197306a-c5c5-4625-b006-b9094d42d6f7",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "028ece05-ef31-42e2-aa51-f81bc01d3208": {
+      "questionId": "028ece05-ef31-42e2-aa51-f81bc01d3208",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "02f8bc24-fdf0-4633-a83e-71744b6be142": {
+      "questionId": "02f8bc24-fdf0-4633-a83e-71744b6be142",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0375f00a-26c7-4cf9-aee6-0ccded06fd82": {
+      "questionId": "0375f00a-26c7-4cf9-aee6-0ccded06fd82",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03efad12-65d4-4dad-bb59-ef0f5040bef8": {
+      "questionId": "03efad12-65d4-4dad-bb59-ef0f5040bef8",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "043769b4-95ad-4655-b2ff-60c998ad0ff4": {
+      "questionId": "043769b4-95ad-4655-b2ff-60c998ad0ff4",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "046e4960-d319-4500-91ac-8a3c2a5a21e4": {
+      "questionId": "046e4960-d319-4500-91ac-8a3c2a5a21e4",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "04ac25df-d6f5-4833-b9e3-5e66fb15687a": {
+      "questionId": "04ac25df-d6f5-4833-b9e3-5e66fb15687a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03a7c44c-9f68-493c-8c23-b744b69a6b6a": {
+      "questionId": "03a7c44c-9f68-493c-8c23-b744b69a6b6a",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03cdaf90-3a88-4158-a9cd-0f3e6dc3cfcd": {
+      "questionId": "03cdaf90-3a88-4158-a9cd-0f3e6dc3cfcd",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0194f717-6cea-496c-8ebe-7b05cd4730d8": {
+      "questionId": "0194f717-6cea-496c-8ebe-7b05cd4730d8",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "015a92ce-7310-43d7-a37f-141a5e49da1e": {
+      "questionId": "015a92ce-7310-43d7-a37f-141a5e49da1e",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "011d3143-233f-4c40-a8ee-9076dc38bfbb": {
+      "questionId": "011d3143-233f-4c40-a8ee-9076dc38bfbb",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "01e25da5-d35f-462c-b663-0283f7b274e2": {
+      "questionId": "01e25da5-d35f-462c-b663-0283f7b274e2",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "034a16a2-6628-4631-b07d-90bea20a2338": {
+      "questionId": "034a16a2-6628-4631-b07d-90bea20a2338",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0431ee71-953e-4fb7-bddc-8bedcfc46871": {
+      "questionId": "0431ee71-953e-4fb7-bddc-8bedcfc46871",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.0.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.1.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.2.markscheme"
+        },
+        {
+          "type": "error",
+          "message": "Invalid input: expected string, received null",
+          "field": "options.3.markscheme"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9": {
+      "questionId": "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "03248e33-0a1c-43ad-9b26-a335a9d2645e": {
+      "questionId": "03248e33-0a1c-43ad-9b26-a335a9d2645e",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "00451c86-6534-4ef5-867d-18976fcfd7af": {
+      "questionId": "00451c86-6534-4ef5-867d-18976fcfd7af",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "03cb10b5-4ba8-49ff-a3f3-ef90b28077c5": {
+      "questionId": "03cb10b5-4ba8-49ff-a3f3-ef90b28077c5",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "a3a6d648-9cd1-4abf-b266-2e1d84ba523b": {
+      "questionId": "a3a6d648-9cd1-4abf-b266-2e1d84ba523b",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "004459ea-f071-488e-ab77-3432cc726356": {
+      "questionId": "004459ea-f071-488e-ab77-3432cc726356",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Option orders must be sequential starting from 0",
+          "field": "options"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "040e73f3-000b-42c8-9858-8bc1f3f7a4d0": {
+      "questionId": "040e73f3-000b-42c8-9858-8bc1f3f7a4d0",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "4855b017-236a-4265-98ad-1c7b77142e1a": {
+      "questionId": "4855b017-236a-4265-98ad-1c7b77142e1a",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "497910fe-ef29-46c8-b463-15248c6eb6d3": {
+      "questionId": "497910fe-ef29-46c8-b463-15248c6eb6d3",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "45dc4819-ee88-4648-b859-1a0ad0124ca6": {
+      "questionId": "45dc4819-ee88-4648-b859-1a0ad0124ca6",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "1f61aff3-66ca-4bca-bc9c-9684610601b1": {
+      "questionId": "1f61aff3-66ca-4bca-bc9c-9684610601b1",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "abbdab29-abf7-49c2-b36c-feee4c655c4a": {
+      "questionId": "abbdab29-abf7-49c2-b36c-feee4c655c4a",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "7bd55769-9b7c-4bd1-8eaa-cb4267fa972e": {
+      "questionId": "7bd55769-9b7c-4bd1-8eaa-cb4267fa972e",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "e780e15b-bfc7-467d-9c7f-2e24a9f4765b": {
+      "questionId": "e780e15b-bfc7-467d-9c7f-2e24a9f4765b",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "33967b3f-3e80-466f-85d1-2c31f534f40f": {
+      "questionId": "33967b3f-3e80-466f-85d1-2c31f534f40f",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "49bd3c4e-bc68-4d00-9aa6-be37a5684565": {
+      "questionId": "49bd3c4e-bc68-4d00-9aa6-be37a5684565",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "fa92db1e-31e5-402e-a187-470bd9d6da0c": {
+      "questionId": "fa92db1e-31e5-402e-a187-470bd9d6da0c",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "828ebeb0-9fdb-4a99-a742-661b4071123b": {
+      "questionId": "828ebeb0-9fdb-4a99-a742-661b4071123b",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "5df98d92-12b0-4203-b336-d9720b6ddc44": {
+      "questionId": "5df98d92-12b0-4203-b336-d9720b6ddc44",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb": {
+      "questionId": "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "d409d6fc-449c-4bf6-9824-0d7b42eee20d": {
+      "questionId": "d409d6fc-449c-4bf6-9824-0d7b42eee20d",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "73e338a4-7efb-4ba3-94e2-a98ce90a0013": {
+      "questionId": "73e338a4-7efb-4ba3-94e2-a98ce90a0013",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "e38b71a6-6750-46a9-84d7-11045b828421": {
+      "questionId": "e38b71a6-6750-46a9-84d7-11045b828421",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": {
+      "questionId": "97a1e83b-6c1b-4697-be02-4ec7a88f7df6",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    },
+    "023bbf11-1969-48b9-aef4-a0811c8714a7": {
+      "questionId": "023bbf11-1969-48b9-aef4-a0811c8714a7",
+      "issues": [
+        {
+          "type": "error",
+          "message": "Invalid input",
+          "field": "options"
+        }
+      ],
+      "wasFixed": false,
+      "wasRemoved": true
+    },
+    "04c60aab-d16d-43e2-997d-c00ee3162d92": {
+      "questionId": "04c60aab-d16d-43e2-997d-c00ee3162d92",
+      "issues": [
+        {
+          "type": "fixed",
+          "message": "Question validated successfully"
+        }
+      ],
+      "wasFixed": true,
+      "wasRemoved": false
+    }
+  }
+}
