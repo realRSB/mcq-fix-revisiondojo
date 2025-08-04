@@ -10,6 +10,9 @@
     "build": "tsc",
     "dev": "tsc --watch"
   },
+  "compilerOptions": {
+    "outDir": "dist"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
