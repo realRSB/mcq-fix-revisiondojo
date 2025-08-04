@@ -1170,36 +1170,6 @@
     ]
   },
   {
-    "id": "80bc0815-f635-4091-8da4-4cc37c82010b",
-    "question": "A company's revenue function is $R(x) = x(100 - 2x)$ where $x$ is the number of units sold (in thousands) and $R(x)$ is revenue in thousands of dollars. The company's cost function in thousands is $C(x) = 50 + 10x$. To maximize profit, how many units (in thousands) should the company produce, and what is the maximum profit in thousands of dollars?",
-    "options": [
-      {
-        "id": 3875215,
-        "content": "22.5 thousand units; $962.5 thousand profit",
-        "correct": true,
-        "order": 0
-      },
-      {
-        "id": 3875216,
-        "content": "25 thousand units; $1,000 thousand profit",
-        "correct": false,
-        "order": 1
-      },
-      {
-        "id": 3875217,
-        "content": "20 thousand units; $900 thousand profit",
-        "correct": false,
-        "order": 2
-      },
-      {
-        "id": 3875218,
-        "content": "30 thousand units; $800 thousand profit",
-        "correct": false,
-        "order": 3
-      }
-    ]
-  },
-  {
     "id": "6dca3baf-252a-4696-9d88-c2eccf8c7187",
     "question": "A virus spreads according to N(t) = 100(1.6)^t, where t is days. After how many days will there be 1,000 infected people?",
     "options": [
@@ -1734,36 +1704,6 @@
       {
         "id": 3865041,
         "content": "80",
-        "correct": false,
-        "order": 3
-      }
-    ]
-  },
-  {
-    "id": "835f2693-32b7-4ada-bb00-bf3254cd8243",
-    "question": "An engineering firm designs a bridge using two types of steel beams. Type A beams cost $800 each and weigh 2 tons. Type B beams cost $1,200 each and weigh 1.5 tons. The project requires exactly 100 beams with a total weight of 180 tons and a budget of $95,000. How many Type A beams are needed?",
-    "options": [
-      {
-        "id": 3865042,
-        "content": "60",
-        "correct": true,
-        "order": 0
-      },
-      {
-        "id": 3865043,
-        "content": "40",
-        "correct": false,
-        "order": 1
-      },
-      {
-        "id": 3865044,
-        "content": "70",
-        "correct": false,
-        "order": 2
-      },
-      {
-        "id": 3865045,
-        "content": "50",
         "correct": false,
         "order": 3
       }
@@ -2694,36 +2634,6 @@
       {
         "id": 3865333,
         "content": "38",
-        "correct": false,
-        "order": 3
-      }
-    ]
-  },
-  {
-    "id": "d11d0150-68ea-410c-b38f-0684f2ffd7bb",
-    "question": "An investment firm manages three types of portfolios: conservative, moderate, and aggressive. A client invests a total of $120,000 across these three portfolios. The amount in the moderate portfolio is $15,000 more than twice the amount in the conservative portfolio. The aggressive portfolio contains $5,000 less than the conservative and moderate portfolios combined. If the annual returns are 4% for conservative, 7% for moderate, and 12% for aggressive portfolios, and the client's total annual return is $8,400, how much money is invested in each portfolio?",
-    "options": [
-      {
-        "id": 3865326,
-        "content": "Conservative: $25,000; Moderate: $65,000; Aggressive: $30,000",
-        "correct": true,
-        "order": 0
-      },
-      {
-        "id": 3865327,
-        "content": "Conservative: $20,000; Moderate: $55,000; Aggressive: $45,000",
-        "correct": false,
-        "order": 1
-      },
-      {
-        "id": 3865328,
-        "content": "Conservative: $30,000; Moderate: $75,000; Aggressive: $15,000",
-        "correct": false,
-        "order": 2
-      },
-      {
-        "id": 3865329,
-        "content": "Conservative: $15,000; Moderate: $45,000; Aggressive: $60,000",
         "correct": false,
         "order": 3
       }
@@ -5070,36 +4980,6 @@
     ]
   },
   {
-    "id": "1f61aff3-66ca-4bca-bc9c-9684610601b1",
-    "question": "A ball is thrown upward and its height in meters after $t$ seconds is given by $h = -4.9t^2 + 9.8t + 2$. After how many seconds does the ball hit the ground?",
-    "options": [
-      {
-        "id": 3948584,
-        "content": "$t = 0",
-        "correct": false,
-        "order": 0
-      },
-      {
-        "id": 3948585,
-        "content": "$t = 1.6",
-        "correct": false,
-        "order": 1
-      },
-      {
-        "id": 3948586,
-        "content": "$t = 3.1",
-        "correct": false,
-        "order": 2
-      },
-      {
-        "id": 3948587,
-        "content": "$t = 2.2",
-        "correct": true,
-        "order": 3
-      }
-    ]
-  },
-  {
     "id": "abbdab29-abf7-49c2-b36c-feee4c655c4a",
     "question": "Solve for $x$ in the equation $2x^2 - 5x + 3 = 0$. Which of the following is a solution?",
     "options": [
@@ -5184,36 +5064,6 @@
       {
         "id": 3948711,
         "content": "$6$",
-        "correct": false,
-        "order": 3
-      }
-    ]
-  },
-  {
-    "id": "33967b3f-3e80-466f-85d1-2c31f534f40f",
-    "question": "A certain investment triples in value every 2 years. If the value of the investment at the end of 4 years is $27,000, which equation best models the value V (in dollars) of the investment t years after the start, where V(0) is the initial value and t is the number of years since the investment started?",
-    "options": [
-      {
-        "id": 3949096,
-        "content": "$V = 3,000(\\sqrt{3})^t$",
-        "correct": true,
-        "order": 0
-      },
-      {
-        "id": 3949097,
-        "content": "$V = 9,000(3)^{t/2}$",
-        "correct": false,
-        "order": 1
-      },
-      {
-        "id": 3949098,
-        "content": "$V = 27,000(\\sqrt{3})^t$",
-        "correct": false,
-        "order": 2
-      },
-      {
-        "id": 3949099,
-        "content": "$V = 3,000(3)^t$",
         "correct": false,
         "order": 3
       }
@@ -5484,36 +5334,6 @@
       {
         "id": 3952079,
         "content": "D. The number of sides of Tile A is 8.",
-        "correct": false,
-        "order": 3
-      }
-    ]
-  },
-  {
-    "id": "04c60aab-d16d-43e2-997d-c00ee3162d92",
-    "question": "A solar panel installation company charges a fixed setup fee of \\$1,000 plus a rate per square foot of panel area. The total cost C (in dollars) for installing x square feet of panels is modeled on a standard rate of \\$50 per square foot. A customer's total bill was \\$3,250 because they received a 10% discount on the per-square-foot rate only. What would the customer's bill have been without the discount?",
-    "options": [
-      {
-        "id": 3876359,
-        "content": "$3,500",
-        "correct": true,
-        "order": 0
-      },
-      {
-        "id": 3876360,
-        "content": "$3,575",
-        "correct": false,
-        "order": 1
-      },
-      {
-        "id": 3876361,
-        "content": "$3,250",
-        "correct": false,
-        "order": 2
-      },
-      {
-        "id": 3876362,
-        "content": "$3,000",
         "correct": false,
         "order": 3
       }

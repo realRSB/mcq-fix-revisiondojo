@@ -1,7 +1,7 @@
 {
   "totalQuestions": 197,
-  "fixedQuestions": 184,
-  "removedQuestions": 13,
+  "fixedQuestions": 178,
+  "removedQuestions": 19,
   "questions": {
     "d816449d-8471-42fb-9343-0ff92b917b50": {
       "questionId": "d816449d-8471-42fb-9343-0ff92b917b50",
@@ -463,12 +463,60 @@
       "questionId": "80bc0815-f635-4091-8da4-4cc37c82010b",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.0.content"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.1.content"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.2.content"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.3.content"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[0].content",
+          "originalValue": "22.5 thousand units; $962.5 thousand profit",
+          "fixedValue": "22.5 thousand units;$962.5 thousand profit"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[1].content",
+          "originalValue": "25 thousand units; $1,000 thousand profit",
+          "fixedValue": "25 thousand units;$1,000 thousand profit"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[2].content",
+          "originalValue": "20 thousand units; $900 thousand profit",
+          "fixedValue": "20 thousand units;$900 thousand profit"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[3].content",
+          "originalValue": "30 thousand units; $800 thousand profit",
+          "fixedValue": "30 thousand units;$800 thousand profit"
+        },
+        {
+          "type": "error",
+          "message": "Question could not be fixed automatically"
         }
       ],
-      "wasFixed": true,
-      "wasRemoved": false
+      "wasFixed": false,
+      "wasRemoved": true
     },
     "6dca3baf-252a-4696-9d88-c2eccf8c7187": {
       "questionId": "6dca3baf-252a-4696-9d88-c2eccf8c7187",
@@ -687,12 +735,34 @@
       "issues": [
         {
           "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "specification"
+        },
+        {
+          "type": "error",
           "message": "Option orders must be sequential starting from 0",
           "field": "options"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected and partially fixed",
+          "field": "question",
+          "originalValue": "An engineering firm designs a bridge using two types of steel beams. Type A beams cost $800 each and weigh 2 tons. Type B beams cost $1,200 each and weigh 1.5 tons. The project requires exactly 100 beams with a total weight of 180 tons and a budget of $95,000. How many Type A beams are needed?",
+          "fixedValue": "An engineering firm designs a bridge using two types of steel beams. Type A beams cost$800 each and weigh 2 tons. Type B beams cost$1,200 each and weigh 1.5 tons. The project requires exactly 100 beams with a total weight of 180 tons and a budget of$95,000. How many Type A beams are needed?"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX: Unmatched dollar signs ($) found",
+          "field": "question",
+          "originalValue": "An engineering firm designs a bridge using two types of steel beams. Type A beams cost$800 each and weigh 2 tons. Type B beams cost$1,200 each and weigh 1.5 tons. The project requires exactly 100 beams with a total weight of 180 tons and a budget of$95,000. How many Type A beams are needed?"
+        },
+        {
+          "type": "error",
+          "message": "Question could not be fixed automatically"
         }
       ],
-      "wasFixed": true,
-      "wasRemoved": false
+      "wasFixed": false,
+      "wasRemoved": true
     },
     "041971c0-956b-431d-9aef-c216e3f4f85b": {
       "questionId": "041971c0-956b-431d-9aef-c216e3f4f85b",
@@ -1072,10 +1142,42 @@
           "type": "error",
           "message": "Option orders must be sequential starting from 0",
           "field": "options"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[0].content",
+          "originalValue": "Conservative: $25,000; Moderate: $65,000; Aggressive: $30,000",
+          "fixedValue": "Conservative:$25,000; Moderate:$65,000; Aggressive:$30,000"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[1].content",
+          "originalValue": "Conservative: $20,000; Moderate: $55,000; Aggressive: $45,000",
+          "fixedValue": "Conservative:$20,000; Moderate:$55,000; Aggressive:$45,000"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[2].content",
+          "originalValue": "Conservative: $30,000; Moderate: $75,000; Aggressive: $15,000",
+          "fixedValue": "Conservative:$30,000; Moderate:$75,000; Aggressive:$15,000"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[3].content",
+          "originalValue": "Conservative: $15,000; Moderate: $45,000; Aggressive: $60,000",
+          "fixedValue": "Conservative:$15,000; Moderate:$45,000; Aggressive:$60,000"
+        },
+        {
+          "type": "error",
+          "message": "Question could not be fixed automatically"
         }
       ],
-      "wasFixed": true,
-      "wasRemoved": false
+      "wasFixed": false,
+      "wasRemoved": true
     },
     "0223dd8e-8e24-49a5-b807-c42bee105c23": {
       "questionId": "0223dd8e-8e24-49a5-b807-c42bee105c23",
@@ -2301,12 +2403,60 @@
       "questionId": "1f61aff3-66ca-4bca-bc9c-9684610601b1",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.0.content"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.1.content"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.2.content"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "options.3.content"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[0].content",
+          "originalValue": "$t = 0",
+          "fixedValue": "$t = 0"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[1].content",
+          "originalValue": "$t = 1.6",
+          "fixedValue": "$t = 1.6"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[2].content",
+          "originalValue": "$t = 3.1",
+          "fixedValue": "$t = 3.1"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[3].content",
+          "originalValue": "$t = 2.2",
+          "fixedValue": "$t = 2.2"
+        },
+        {
+          "type": "error",
+          "message": "Question could not be fixed automatically"
         }
       ],
-      "wasFixed": true,
-      "wasRemoved": false
+      "wasFixed": false,
+      "wasRemoved": true
     },
     "abbdab29-abf7-49c2-b36c-feee4c655c4a": {
       "questionId": "abbdab29-abf7-49c2-b36c-feee4c655c4a",
@@ -2345,12 +2495,30 @@
       "questionId": "33967b3f-3e80-466f-85d1-2c31f534f40f",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "specification"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected and partially fixed",
+          "field": "question",
+          "originalValue": "A certain investment triples in value every 2 years. If the value of the investment at the end of 4 years is $27,000, which equation best models the value V (in dollars) of the investment t years after the start, where V(0) is the initial value and t is the number of years since the investment started?",
+          "fixedValue": "A certain investment triples in value every 2 years. If the value of the investment at the end of 4 years is$27,000, which equation best models the value V (in dollars) of the investment t years after the start, where V(0) is the initial value and t is the number of years since the investment started?"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX: Unmatched dollar signs ($) found",
+          "field": "question",
+          "originalValue": "A certain investment triples in value every 2 years. If the value of the investment at the end of 4 years is$27,000, which equation best models the value V (in dollars) of the investment t years after the start, where V(0) is the initial value and t is the number of years since the investment started?"
+        },
+        {
+          "type": "error",
+          "message": "Question could not be fixed automatically"
         }
       ],
-      "wasFixed": true,
-      "wasRemoved": false
+      "wasFixed": false,
+      "wasRemoved": true
     },
     "49bd3c4e-bc68-4d00-9aa6-be37a5684565": {
       "questionId": "49bd3c4e-bc68-4d00-9aa6-be37a5684565",
@@ -2467,12 +2635,58 @@
       "questionId": "04c60aab-d16d-43e2-997d-c00ee3162d92",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "error",
+          "message": "LaTeX syntax error: unmatched delimiters",
+          "field": "specification"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected and partially fixed",
+          "field": "question",
+          "originalValue": "A solar panel installation company charges a fixed setup fee of \\$1,000 plus a rate per square foot of panel area. The total cost C (in dollars) for installing x square feet of panels is modeled on a standard rate of \\$50 per square foot. A customer's total bill was \\$3,250 because they received a 10% discount on the per-square-foot rate only. What would the customer's bill have been without the discount?",
+          "fixedValue": "A solar panel installation company charges a fixed setup fee of\\$1,000 plus a rate per square foot of panel area. The total cost C (in dollars) for installing x square feet of panels is modeled on a standard rate of\\$50 per square foot. A customer's total bill was\\$3,250 because they received a 10% discount on the per-square-foot rate only. What would the customer's bill have been without the discount?"
+        },
+        {
+          "type": "error",
+          "message": "LaTeX: Unmatched dollar signs ($) found",
+          "field": "question",
+          "originalValue": "A solar panel installation company charges a fixed setup fee of\\$1,000 plus a rate per square foot of panel area. The total cost C (in dollars) for installing x square feet of panels is modeled on a standard rate of\\$50 per square foot. A customer's total bill was\\$3,250 because they received a 10% discount on the per-square-foot rate only. What would the customer's bill have been without the discount?"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[0].content",
+          "originalValue": "$3,500",
+          "fixedValue": "$3,500"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[1].content",
+          "originalValue": "$3,575",
+          "fixedValue": "$3,575"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[2].content",
+          "originalValue": "$3,250",
+          "fixedValue": "$3,250"
+        },
+        {
+          "type": "warning",
+          "message": "LaTeX issues detected in option content",
+          "field": "options[3].content",
+          "originalValue": "$3,000",
+          "fixedValue": "$3,000"
+        },
+        {
+          "type": "error",
+          "message": "Question could not be fixed automatically"
         }
       ],
-      "wasFixed": true,
-      "wasRemoved": false
+      "wasFixed": false,
+      "wasRemoved": true
     }
   }
 }

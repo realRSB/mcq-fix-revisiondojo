@@ -9,10 +9,25 @@ export const Option = z.object({
   markscheme: z.string().optional(),
 });
 
+// LaTeX validation helper
+const latexString = z.string().refine(
+  (text) => {
+    if (!text) return true;
+    // Basic LaTeX validation - check for unmatched delimiters
+    const dollarCount = (text.match(/\$/g) || []).length;
+    const braceCount =
+      (text.match(/\{/g) || []).length - (text.match(/\}/g) || []).length;
+    return dollarCount % 2 === 0 && braceCount === 0;
+  },
+  {
+    message: "LaTeX syntax error: unmatched delimiters",
+  }
+);
+
 // Schema for a complete MCQ with flexible options handling
 export const MCQ = z.object({
   question_id: z.string().uuid(),
-  specification: z.string(),
+  specification: latexString,
   options: z
     .string()
     .or(z.array(Option))
@@ -41,12 +56,12 @@ export const MCQ = z.object({
 // Schema for the expected output format (matching problem requirements)
 export const MCQOutput = z.object({
   id: z.string().uuid(),
-  question: z.string().nullable(),
+  question: latexString.nullable(),
   options: z
     .array(
       z.object({
         id: z.number(),
-        content: z.string().min(1),
+        content: latexString.min(1),
         correct: z.boolean(),
         order: z.number().int().nonnegative(),
       })

@@ -47,7 +47,7 @@ npm run check -- --input data/questions-mixed.json --output output.json --report
 The tool automatically detects and attempts to fix:
 
 1. **Empty/null question text** → Keeps as null (no auto-fix)
-2. **LaTeX issues** → Validates basic syntax (future enhancement)
+2. **LaTeX issues** → Validates syntax, cleans formatting, and renders using MathJax
 3. **Multiple or no correct answers** → Reassigns based on heuristics
 4. **Duplicate option text** → Adds disambiguation suffixes
 5. **Gaps or duplicates in option order** → Normalizes to sequential 0, 1, 2, 3...
@@ -132,9 +132,24 @@ npm run dev
 npm run build
 ```
 
+## LaTeX Support
+
+The tool includes comprehensive LaTeX validation and processing:
+
+- **Syntax Validation**: Detects unmatched delimiters, braces, and malformed commands
+- **MathJax Integration**: Uses MathJax for rendering and advanced validation
+- **Auto-Cleaning**: Normalizes spacing and fixes common formatting issues
+- **Error Reporting**: Detailed feedback on LaTeX issues with specific error messages
+
+### Testing LaTeX Functionality
+
+```bash
+npm run build
+npm run test:latex
+```
+
 ## Future Enhancements
 
-- LaTeX validation using mathjax or latex.js
 - AI-powered question text regeneration
 - Next.js GUI for interactive debugging
 - More sophisticated auto-fixing heuristics

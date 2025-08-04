@@ -4,6 +4,7 @@ import { z } from "zod";
 import { MCQ, MCQOutput, type MCQT } from "./schema.js";
 import fs from "fs/promises";
 import path from "path";
+import { validateLaTeX, cleanLaTeX, hasLaTeXIssues, renderLaTeX } from "./latex.js";
 
 // Types for reporting and validation results
 interface Issue {
@@ -161,6 +162,42 @@ async function attemptToFixQuestion(
     options: [],
   };
 
+  // Fix LaTeX issues in question text
+  if (fixedQuestion.question && hasLaTeXIssues(fixedQuestion.question)) {
+    const originalQuestion = fixedQuestion.question;
+    fixedQuestion.question = cleanLaTeX(fixedQuestion.question);
+    
+    // Validate LaTeX after cleaning
+    const latexValidation = await validateLaTeX(fixedQuestion.question);
+    if (!latexValidation.isValid) {
+      report.issues.push({
+        type: "warning",
+        message: "LaTeX issues detected and partially fixed",
+        field: "question",
+        originalValue: originalQuestion,
+        fixedValue: fixedQuestion.question
+      });
+      
+      // Add specific LaTeX issues to report
+      for (const latexIssue of latexValidation.issues) {
+        report.issues.push({
+          type: latexIssue.type === 'error' ? 'error' : 'warning',
+          message: `LaTeX: ${latexIssue.message}`,
+          field: "question",
+          originalValue: latexIssue.snippet
+        });
+      }
+    } else {
+      report.issues.push({
+        type: "fixed",
+        message: "LaTeX syntax cleaned and validated",
+        field: "question",
+        originalValue: originalQuestion,
+        fixedValue: fixedQuestion.question
+      });
+    }
+  }
+
   // Parse options
   let options = [];
   try {
@@ -203,6 +240,33 @@ async function attemptToFixQuestion(
 
     // Fix content duplicates
     let content = option.content || "";
+    
+    // Fix LaTeX issues in option content
+    if (content && hasLaTeXIssues(content)) {
+      const originalContent = content;
+      content = cleanLaTeX(content);
+      
+      // Validate LaTeX after cleaning
+      const latexValidation = await validateLaTeX(content);
+      if (!latexValidation.isValid) {
+        report.issues.push({
+          type: "warning",
+          message: "LaTeX issues detected in option content",
+          field: `options[${i}].content`,
+          originalValue: originalContent,
+          fixedValue: content
+        });
+      } else {
+        report.issues.push({
+          type: "fixed",
+          message: "LaTeX syntax cleaned in option content",
+          field: `options[${i}].content`,
+          originalValue: originalContent,
+          fixedValue: content
+        });
+      }
+    }
+    
     if (seenContent.has(content) && content.trim()) {
       content = `${content} (Option ${i + 1})`;
       report.issues.push({
