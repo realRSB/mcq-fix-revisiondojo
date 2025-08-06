@@ -1,10 +1,9 @@
 #!/usr/bin/env node
 
 import { z } from "zod";
-import { MCQ, MCQOutput, type MCQT } from "./schema.js";
+import { MCQ, MCQOutput } from "./schema.js";
 import fs from "fs/promises";
-import path from "path";
-import { validateLaTeX, cleanLaTeX, hasLaTeXIssues, renderLaTeX } from "./latex.js";
+import { validateLaTeX, cleanLaTeX, hasLaTeXIssues } from "./latex.js";
 
 // Types for reporting and validation results
 interface Issue {

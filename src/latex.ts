@@ -4,6 +4,7 @@ import { SVG } from "mathjax-full/js/output/svg.js";
 import { liteAdaptor } from "mathjax-full/js/adaptors/liteAdaptor.js";
 import { RegisterHTMLHandler } from "mathjax-full/js/handlers/html.js";
 import { AllPackages } from "mathjax-full/js/input/tex/AllPackages.js";
+import { validLatexCommands } from "./lib/latex-commands.js";
 
 // LaTeX validation and processing utilities
 export interface LaTeXIssue {
@@ -64,104 +65,9 @@ function validateBasicLaTeXSyntax(text: string): LaTeXIssue[] {
 
   // Check for common LaTeX command patterns
   const latexCommands = text.match(/\\[a-zA-Z]+/g) || [];
-  const validCommands = [
-    "\\alpha",
-    "\\beta",
-    "\\gamma",
-    "\\delta",
-    "\\epsilon",
-    "\\zeta",
-    "\\eta",
-    "\\theta",
-    "\\iota",
-    "\\kappa",
-    "\\lambda",
-    "\\mu",
-    "\\nu",
-    "\\xi",
-    "\\pi",
-    "\\rho",
-    "\\sigma",
-    "\\tau",
-    "\\upsilon",
-    "\\phi",
-    "\\chi",
-    "\\psi",
-    "\\omega",
-    "\\Alpha",
-    "\\Beta",
-    "\\Gamma",
-    "\\Delta",
-    "\\Epsilon",
-    "\\Zeta",
-    "\\Eta",
-    "\\Theta",
-    "\\Iota",
-    "\\Kappa",
-    "\\Lambda",
-    "\\Mu",
-    "\\Nu",
-    "\\Xi",
-    "\\Pi",
-    "\\Rho",
-    "\\Sigma",
-    "\\Tau",
-    "\\Upsilon",
-    "\\Phi",
-    "\\Chi",
-    "\\Psi",
-    "\\Omega",
-    "\\frac",
-    "\\sqrt",
-    "\\sum",
-    "\\int",
-    "\\prod",
-    "\\lim",
-    "\\inf",
-    "\\sup",
-    "\\sin",
-    "\\cos",
-    "\\tan",
-    "\\log",
-    "\\ln",
-    "\\exp",
-    "\\abs",
-    "\\norm",
-    "\\left",
-    "\\right",
-    "\\big",
-    "\\Big",
-    "\\bigg",
-    "\\Bigg",
-    "\\text",
-    "\\mathrm",
-    "\\mathbf",
-    "\\mathit",
-    "\\mathcal",
-    "\\mathbb",
-    "\\vec",
-    "\\hat",
-    "\\bar",
-    "\\tilde",
-    "\\dot",
-    "\\ddot",
-    "\\leq",
-    "\\geq",
-    "\\neq",
-    "\\approx",
-    "\\equiv",
-    "\\propto",
-    "\\infty",
-    "\\partial",
-    "\\nabla",
-    "\\forall",
-    "\\exists",
-    "\\in",
-    "\\notin",
-  ];
 
   for (const command of latexCommands) {
-    if (!validCommands.includes(command)) {
+    if (!validLatexCommands.has(command)) {
       issues.push({
         type: "warning",
         message: `Unknown LaTeX command: ${command}`,
@@ -169,6 +75,7 @@ function validateBasicLaTeXSyntax(text: string): LaTeXIssue[] {
       });
     }
   }
+  
 
   // Check for malformed fractions
   const fractionPattern = /\\frac\{[^}]*\}\{[^}]*\}/g;

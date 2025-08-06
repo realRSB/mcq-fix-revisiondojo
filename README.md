@@ -2,6 +2,8 @@
 
 A TypeScript-based tool for validating and automatically fixing multiple choice questions (MCQs). The tool detects common issues like malformed LaTeX, duplicate options, missing correct answers, and invalid option orderings.
 
+**Quick Note**: It would say 197 total questions when you run the program, and that is because 3 questions were dropped as these entries have "question": null, which is invalid according to the schema
+
 ## Features
 
 - **Automatic Issue Detection**: Identifies problems in MCQ data
