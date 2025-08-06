@@ -25,13 +25,7 @@ npm install
 npm run build
 
 # Run the validation tool
-node src/check.js --input data/questions-mixed.json --output output.json --report report.json
-```
-
-Or use the npm script:
-
-```bash
-npm run check -- --input data/questions-mixed.json --output output.json --report report.json
+node dist/check.js --input data/questions-mixed.json --output output.json --report report.json
 ```
 
 ### Arguments
