@@ -1,39 +1,39 @@
 {
   "totalQuestions": 197,
-  "fixedQuestions": 178,
+  "fixedQuestions": 139,
   "removedQuestions": 19,
   "questions": {
     "d816449d-8471-42fb-9343-0ff92b917b50": {
       "questionId": "d816449d-8471-42fb-9343-0ff92b917b50",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "e6272e9e-43d0-43df-ba97-0d1eba255944": {
       "questionId": "e6272e9e-43d0-43df-ba97-0d1eba255944",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "6c82c3a7-7390-445b-a63b-c1c6818701bc": {
       "questionId": "6c82c3a7-7390-445b-a63b-c1c6818701bc",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "02b61fd6-7e4f-4537-a00e-ecc2e06fa899": {
@@ -52,66 +52,66 @@
       "questionId": "1c3a9333-2a97-4ede-93a9-44ff2709df48",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5": {
       "questionId": "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "d4a31989-43a6-461f-8501-ba5e5eb45901": {
       "questionId": "d4a31989-43a6-461f-8501-ba5e5eb45901",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "cac4913a-4372-4ab0-b161-07d142691711": {
       "questionId": "cac4913a-4372-4ab0-b161-07d142691711",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "7bc35897-c2b5-4ebc-9144-961793cab151": {
       "questionId": "7bc35897-c2b5-4ebc-9144-961793cab151",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e": {
       "questionId": "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "040c350d-7a66-474d-a454-a68d23886fbb": {
@@ -130,11 +130,11 @@
       "questionId": "a2cd35f0-c49e-4e0c-a50b-eac79f463d8b",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "b73cdf2a-6abe-410d-b30e-2ff43bb047ba": {
@@ -429,11 +429,11 @@
       "questionId": "1acae734-90bd-45fe-aa06-a0c6139a207b",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "a4730980-c099-425a-a4c3-edf2ed2ab90e": {
@@ -452,11 +452,11 @@
       "questionId": "b1ec23b8-73ab-4153-9b41-3782508e1a66",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "80bc0815-f635-4091-8da4-4cc37c82010b": {
@@ -522,11 +522,11 @@
       "questionId": "6dca3baf-252a-4696-9d88-c2eccf8c7187",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "04b8b939-4ca5-4067-b356-74bae0fa4bf4": {
@@ -545,11 +545,11 @@
       "questionId": "a83c3135-ba78-485d-9023-cf2bb464b0b4",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "036ffcb7-55ec-4bf8-b79e-e0d79f4638ae": {
@@ -604,11 +604,11 @@
       "questionId": "f3a546f2-4e15-4dde-889f-59dffef5e8f5",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "058e734f-7a6c-414c-a2c9-4015ff72c574": {
@@ -627,11 +627,11 @@
       "questionId": "67a880ab-dd06-4e79-8828-d51af747eb02",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "02da2c8b-a059-40ce-a38b-3976d97da3e6": {
@@ -1056,11 +1056,11 @@
       "questionId": "02ab8fdc-4b6e-4301-853e-1137e385e709",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "a6a710d7-9c04-443c-9c02-5e11e590d3f2": {
@@ -1453,11 +1453,11 @@
       "questionId": "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "0034c453-7339-468c-adf0-79a7bbcab237": {
@@ -1644,55 +1644,55 @@
       "questionId": "7170b8a9-5be3-4c63-8629-4d437117c23b",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "04188e6f-7302-4f66-8664-6db7ab865cec": {
       "questionId": "04188e6f-7302-4f66-8664-6db7ab865cec",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "0070a077-4271-4bae-9f5e-d823d8275748": {
       "questionId": "0070a077-4271-4bae-9f5e-d823d8275748",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "5864dfca-3059-4e83-a372-43bd057630cd": {
       "questionId": "5864dfca-3059-4e83-a372-43bd057630cd",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "b5792cba-2ada-42a5-8c12-cef4bfe21267": {
       "questionId": "b5792cba-2ada-42a5-8c12-cef4bfe21267",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "01701bfc-c99e-4ccd-9623-78d6048cdbd6": {
@@ -2287,11 +2287,11 @@
       "questionId": "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "03248e33-0a1c-43ad-9b26-a335a9d2645e": {
@@ -2370,33 +2370,33 @@
       "questionId": "4855b017-236a-4265-98ad-1c7b77142e1a",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "497910fe-ef29-46c8-b463-15248c6eb6d3": {
       "questionId": "497910fe-ef29-46c8-b463-15248c6eb6d3",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "45dc4819-ee88-4648-b859-1a0ad0124ca6": {
       "questionId": "45dc4819-ee88-4648-b859-1a0ad0124ca6",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "1f61aff3-66ca-4bca-bc9c-9684610601b1": {
@@ -2462,33 +2462,33 @@
       "questionId": "abbdab29-abf7-49c2-b36c-feee4c655c4a",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "7bd55769-9b7c-4bd1-8eaa-cb4267fa972e": {
       "questionId": "7bd55769-9b7c-4bd1-8eaa-cb4267fa972e",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "e780e15b-bfc7-467d-9c7f-2e24a9f4765b": {
       "questionId": "e780e15b-bfc7-467d-9c7f-2e24a9f4765b",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "33967b3f-3e80-466f-85d1-2c31f534f40f": {
@@ -2524,99 +2524,99 @@
       "questionId": "49bd3c4e-bc68-4d00-9aa6-be37a5684565",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "fa92db1e-31e5-402e-a187-470bd9d6da0c": {
       "questionId": "fa92db1e-31e5-402e-a187-470bd9d6da0c",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "828ebeb0-9fdb-4a99-a742-661b4071123b": {
       "questionId": "828ebeb0-9fdb-4a99-a742-661b4071123b",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "5df98d92-12b0-4203-b336-d9720b6ddc44": {
       "questionId": "5df98d92-12b0-4203-b336-d9720b6ddc44",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb": {
       "questionId": "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "d409d6fc-449c-4bf6-9824-0d7b42eee20d": {
       "questionId": "d409d6fc-449c-4bf6-9824-0d7b42eee20d",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "73e338a4-7efb-4ba3-94e2-a98ce90a0013": {
       "questionId": "73e338a4-7efb-4ba3-94e2-a98ce90a0013",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "e38b71a6-6750-46a9-84d7-11045b828421": {
       "questionId": "e38b71a6-6750-46a9-84d7-11045b828421",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": {
       "questionId": "97a1e83b-6c1b-4697-be02-4ec7a88f7df6",
       "issues": [
         {
-          "type": "fixed",
-          "message": "Question validated successfully"
+          "type": "info",
+          "message": "Question is valid without needing any fixes"
         }
       ],
-      "wasFixed": true,
+      "wasFixed": false,
       "wasRemoved": false
     },
     "023bbf11-1969-48b9-aef4-a0811c8714a7": {

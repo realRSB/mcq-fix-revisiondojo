@@ -7,7 +7,7 @@ import { validateLaTeX, cleanLaTeX, hasLaTeXIssues } from "./latex.js";
 
 // Types for reporting and validation results
 interface Issue {
-  type: "error" | "warning" | "fixed";
+  type: "error" | "warning" | "fixed" | "info";
   message: string;
   field?: string;
   originalValue?: any;
@@ -93,11 +93,9 @@ async function validateAndFixMCQs(inputPath: string): Promise<{
 
       validQuestions.push(validatedQuestion);
       questionReport.issues.push({
-        type: "fixed",
-        message: "Question validated successfully",
+        type: "info",
+        message: "Question is valid without needing any fixes",
       });
-      questionReport.wasFixed = true;
-      report.fixedQuestions++;
     } catch (error) {
       if (error instanceof z.ZodError) {
         // Handle validation errors
